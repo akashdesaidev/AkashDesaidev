@@ -36,9 +36,9 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashdesai3105&show_icons=true&locale=en&layout=compact" alt="aakashdesai3105" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkashDesaiMasai&show_icons=true&locale=en&layout=compact" alt="AkashDesaiMasai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashdesai3105&show_icons=true&locale=en" alt="aakashdesai3105" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AkashDesaiMasai&show_icons=true&locale=en" alt="AkashDesaiMasai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashdesai3105&" alt="aakashdesai3105" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashDesaiMasai&" alt="AkashDesaiMasai" /></p>
 
