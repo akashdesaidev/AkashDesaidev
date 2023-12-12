@@ -15,7 +15,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inakashdesai/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://akashdesaimasai.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://akashdesaidev.github.io)
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
@@ -36,9 +36,9 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkashDesaiMasai&show_icons=true&locale=en&layout=compact" alt="AkashDesaiMasai" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashdesaidev&show_icons=true&locale=en&layout=compact" alt="akashdesaidev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AkashDesaiMasai&show_icons=true&locale=en" alt="AkashDesaiMasai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashdesaidev&show_icons=true&locale=en" alt="akashdesaidev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashDesaiMasai&show_icons=true" alt="AkashDesaiMasai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdesaidev&show_icons=true" alt="akashdesaidev" /></p>
 
